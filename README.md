@@ -45,19 +45,19 @@ python scraper.py https://example.com/article1 https://example.com/article2 -o s
 
 - `[URLs]`: One or more URLs to scrape (space-separated)
 - `-o [OUTPUT_DIRECTORY]`: (Optional) Specify the output directory for the Word documents
-
+```
 ## Requirements
-
+```
 - Python 3.x
 - Required libraries: requests, beautifulsoup4, python-docx, unidecode
-```
+
 Install dependencies:
 ```
 pip install requests beautifulsoup4 python-docx unidecode
 
-
+```
 ## Note
-
+```
 This scraper is designed for general use but may require adjustments for specific websites. Always ensure you have permission to scrape content from the target websites.
 
 
