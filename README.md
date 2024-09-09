@@ -59,6 +59,6 @@ pip install requests beautifulsoup4 python-docx unidecode
 ## Note
 
 This scraper is designed for general use but may require adjustments for specific websites. Always ensure you have permission to scrape content from the target websites.
-```
+
 
 
